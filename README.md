@@ -12,5 +12,5 @@ Java JDK:11, Maven, JavaMail API, Java Activation Framework
 * run `iBank` 
 
 ## For feedback
-**e-mail:** artsiombarodka@gmail.com
+**e-mail:** artsiombarodka@gmail.com      
 **telegram:** @ArtiomBar
