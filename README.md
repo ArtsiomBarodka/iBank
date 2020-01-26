@@ -13,4 +13,5 @@ Java JDK:11, Maven, JavaMail API, Java Activation Framework
 
 ## For feedback
 **e-mail:** artsiombarodka@gmail.com
+
 **telegram:** @ArtiomBar
