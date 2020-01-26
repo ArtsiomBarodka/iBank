@@ -1,6 +1,6 @@
 # iBank
-Final project for EPAM.  
-Topic:  Home finance accounting.
+Final project for EPAM  
+Topic:  Home finance accounting
 
 ## Tools
 Java JDK:11, Maven, JavaMail API, Java Activation Framework
